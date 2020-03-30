@@ -13,7 +13,7 @@ of its COVID-19 rates, allowing the user to easily see which countries need to t
 ones do not.
 
 
-Questions? Concerns? Comments? Email: shayanhalder2389@gmail.com
+Questions? Comments? Concerns? Email: shayanhalder2389@gmail.com
 
 
 
