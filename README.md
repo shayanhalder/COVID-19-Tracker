@@ -1,6 +1,8 @@
 # COVID-19-Tracker
 A GUI application for tracking the rates of COVID-19 throughout the world. 
 
+IMPORTANT: when you download it, make sure the .exe file and the earth.ico icon image are in the SAME directory! Also keep the .json files that the app makes in the same directory as well! Otherwise it will not work!
+
 -----HOW TO GET-----
 
 To install, click on the "COVID-19 Installer.exe" file above and click the "download" button. This is an installer so you have to choose where you want to install this app in your computer. It is recommended that you create a folder to install this app in, as it requires an icon image to function. NOTE: Your antivirus will most likely see this app as a threat but it isn't, so you will most likely have to prevent your antivirus from blocking this app if it does so. When you run the app, note that it will take about 1 minute to start running and you will see a black terminal window before the actual app comes up. IMPORTANT: when you download it, make sure the .exe file and the earth.ico icon image are in the SAME directory! Otherwise it will not work!
