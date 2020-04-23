@@ -1,8 +1,9 @@
 # COVID-19-Tracker
-A GUI application for tracking the rates of COVID-19 throughout the world. Submitted for LA Hacks 2020. 
+A GUI application for tracking the rates of COVID-19 throughout the world. Submitted for LA Hacks 2020. '
 
 DEMO VIDEO: https://www.youtube.com/watch?v=XmEdZqwJZNQ
 
+DISCLAIMER: Due to the limits of the API this uses, data for certain dates in the past will now no longer be available due to the historical data limit that this API has. 
 
 IMPORTANT: when you download it, make sure the .exe file and the earth.ico icon image are in the SAME directory! Also keep the .json files that the app makes in the same directory as well! Otherwise it will not work!
 
